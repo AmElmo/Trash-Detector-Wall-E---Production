@@ -11,3 +11,246 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.group1-group1 {
+  width: 1361px;
+  height: 219px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  position: relative;
+  border-color: transparent;
+  background-color: transparent;
+}
+.group1-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-ellipse2 {
+  top: 0px;
+  left: 198px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-ellipse3 {
+  top: 0px;
+  left: 396px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-ellipse4 {
+  top: 0px;
+  left: 594px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-ellipse6 {
+  top: 0px;
+  left: 990px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-ellipse7 {
+  top: 0px;
+  left: 1188px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-ellipse5 {
+  top: 0px;
+  left: 792px;
+  width: 158px;
+  height: 157px;
+  position: absolute;
+}
+.group1-text {
+  top: 186px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text02 {
+  top: 189px;
+  left: 236px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text04 {
+  top: 186px;
+  left: 441px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text06 {
+  top: 186px;
+  left: 638px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text08 {
+  top: 186px;
+  left: 822px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text10 {
+  top: 180px;
+  left: 1016px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text12 {
+  top: 180px;
+  left: 1172px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-paper1 {
+  top: 37px;
+  left: 38px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: transparent;
+}
+.group1-plastic1 {
+  top: 37px;
+  left: 236px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: transparent;
+}
+.group1-glassbottle1 {
+  top: 37px;
+  left: 434px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: transparent;
+}
+.group1-jar1 {
+  top: 37px;
+  left: 634px;
+  width: 83px;
+  height: 88px;
+  position: absolute;
+  border-color: transparent;
+}
+.group1-food1 {
+  top: 37px;
+  left: 832px;
+  width: 83px;
+  height: 81px;
+  position: absolute;
+  border-color: transparent;
+}
+.group1-electronics1 {
+  top: 37px;
+  left: 1032px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: transparent;
+}
+.group1-nonrecyclable1 {
+  top: 40px;
+  left: 1225px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: transparent;
+}
