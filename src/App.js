@@ -90,8 +90,8 @@ function App() {
             right: 0,
             textAlign: "center",
             zindex: 9,
-            width: 640,
-            height: 480,
+            width: 884,
+            height: 624,
           }}
         />
 
